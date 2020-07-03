@@ -33,7 +33,9 @@ query {
 }
 </static-query>
 
-<style >
+<style src="../tailwind.css" />
+<style>
+
 .nav-item {
 }
 .nav-item:hover {
@@ -41,7 +43,7 @@ query {
 }
 
 a.active--exact.active {
-    color: blue;
+  @apply .text-teal-600;
 }
 
 </style>
