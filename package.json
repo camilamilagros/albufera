@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {}
+}
