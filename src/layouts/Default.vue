@@ -34,16 +34,4 @@ query {
 </static-query>
 
 <style src="../tailwind.css" />
-<style>
 
-.nav-item {
-}
-.nav-item:hover {
-  @apply .text-gray-600;
-}
-
-a.active--exact.active {
-  @apply .text-teal-600;
-}
-
-</style>
