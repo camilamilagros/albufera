@@ -8,7 +8,7 @@ module.exports = {
   siteName: 'Camila | To do',
   plugins: [
     {
-      use: "gridsome-plugin-tailwindcss",
-    },
+      use: 'gridsome-plugin-tailwindcss'
+    }
   ],
 }
